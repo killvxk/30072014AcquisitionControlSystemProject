@@ -12455,10 +12455,10 @@ Source: www.cypressindustries.com</description>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
-<instance part="X1" gate="-1" x="45.72" y="116.84" rot="MR0"/>
-<instance part="X1" gate="-2" x="45.72" y="114.3" rot="MR0"/>
-<instance part="X1" gate="-3" x="45.72" y="111.76" rot="MR0"/>
-<instance part="X1" gate="-4" x="45.72" y="109.22" rot="MR0"/>
+<instance part="X1" gate="-1" x="43.18" y="137.16" rot="MR0"/>
+<instance part="X1" gate="-2" x="43.18" y="134.62" rot="MR0"/>
+<instance part="X1" gate="-3" x="43.18" y="132.08" rot="MR0"/>
+<instance part="X1" gate="-4" x="43.18" y="129.54" rot="MR0"/>
 <instance part="X2" gate="G$1" x="223.52" y="121.92"/>
 <instance part="LPC1" gate="G$1" x="132.08" y="114.3"/>
 </instances>
