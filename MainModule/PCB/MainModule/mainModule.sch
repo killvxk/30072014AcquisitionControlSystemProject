@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -10509,7 +10509,7 @@ high speed (Philips)</description>
 <part name="L1" library="inductor-neosid" deviceset="SM-Z15" device="" value="100uH"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R2010" value="200K"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="R2010" value="100K"/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="R2010" value="3.01K"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="R2010" value="1K"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R2010" value="1K"/>
 <part name="R5" library="rcl" deviceset="R-EU_" device="R2010" value="1ohm"/>
 <part name="D1" library="diode" deviceset="1N4148" device="DO35-7"/>
@@ -10652,7 +10652,7 @@ high speed (Philips)</description>
 <wire x1="81.28" y1="114.3" x2="81.28" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="VOUT(10V)" class="0">
+<net name="VOUT(5V)" class="0">
 <segment>
 <pinref part="L1" gate="G$1" pin="2"/>
 <pinref part="R5" gate="G$1" pin="2"/>
