@@ -34,3 +34,5 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+/MainModule/PCB/MainModule/mainModule.s#2
+/MainModule/PCB/MainModule/mainModule.s#1
