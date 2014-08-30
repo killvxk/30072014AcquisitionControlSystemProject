@@ -1,0 +1,23 @@
+[Eagle]
+Version="06 03 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/nix/Documents/GitHub/30072014AcquisitionControlSystemProject/MainModule/PCB/MainModule/Libraries/LM3940.lbr"
+UsedLibrary="C:/Users/nix/Documents/GitHub/30072014AcquisitionControlSystemProject/MainModule/PCB/MainModule/Libraries/LM5007.lbr"
+UsedLibrary="C:/Users/nix/Documents/GitHub/30072014AcquisitionControlSystemProject/MainModule/PCB/MainModule/Libraries/LM5575.lbr"
+UsedLibrary="C:/Users/nix/Documents/GitHub/30072014AcquisitionControlSystemProject/MainModule/PCB/MainModule/Libraries/LPCXpresso_LPC1769_board.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="75 75 674 474"
+State=1
+Number=0
+
+[Desktop]
+Screen="2806 900"
+Window="Win_1"
