@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+	<configuration id="com.crt.advproject.config.exe.debug.2017931364.1306094929.1426141101.2072991679.53701308.1723112636" name="Debug">
+		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+			<provider id="com.crt.advproject.GCCBuildCommandParser">
+				<language id="org.eclipse.cdt.core.gcc">
+					<resource project-relative-path="Descriptors.c">
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/CMSIS/CMSIS/Include"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_ip"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_chip/chip_common"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_chip/chip_17xx_40xx"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_board/board_common"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_board/boards_17xx_40xx/nxp_xpresso_1769"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/LPCUSBLib/Drivers/USB"/>
+						<entry kind="macro" name="CORE_M3" value=""/>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="USB_DEVICE_ONLY" value=""/>
+						<entry kind="macro" name="__CODE_RED" value=""/>
+						<entry kind="macro" name="__LPC175X_6X__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value=""/>
+					</resource>
+					<resource project-relative-path="cr_startup_lpc17xx40xx.c">
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/CMSIS/CMSIS/Include"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_ip"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_chip/chip_common"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_chip/chip_17xx_40xx"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_board/board_common"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_board/boards_17xx_40xx/nxp_xpresso_1769"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/LPCUSBLib/Drivers/USB"/>
+						<entry kind="macro" name="CORE_M3" value=""/>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="USB_DEVICE_ONLY" value=""/>
+						<entry kind="macro" name="__CODE_RED" value=""/>
+						<entry kind="macro" name="__LPC175X_6X__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value=""/>
+					</resource>
+					<resource project-relative-path="VirtualSerial.c">
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/CMSIS/CMSIS/Include"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_ip"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_chip/chip_common"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_chip/chip_17xx_40xx"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_board/board_common"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/lpc_core/lpc_board/boards_17xx_40xx/nxp_xpresso_1769"/>
+						<entry kind="includePath" name="C:/LPCOpen/lpcopen/software/LPCUSBLib/Drivers/USB"/>
+						<entry kind="macro" name="CORE_M3" value=""/>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="USB_DEVICE_ONLY" value=""/>
+						<entry kind="macro" name="__CODE_RED" value=""/>
+						<entry kind="macro" name="__LPC175X_6X__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value=""/>
+					</resource>
+				</language>
+			</provider>
+		</extension>
+	</configuration>
+</project>
