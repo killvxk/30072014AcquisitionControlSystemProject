@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;nxp_xpresso_VirtualSerialDevice&apos; to &apos;MainModule(LPC1769)&apos;" description="Rename resource &apos;nxp_xpresso_VirtualSerialDevice&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/nxp_xpresso_VirtualSerialDevice" name="MainModule(LPC1769)" stamp="1409781281773" updateReferences="true"/>
-</session>
