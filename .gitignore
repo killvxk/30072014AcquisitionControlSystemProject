@@ -69,3 +69,5 @@ Debug
 /MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/HIDParser.d
 /MainModule/SourceCode/MainModule(LPC1769)/Debug
 /MainModule/SourceCode/.metadata
+/MainModule/SourceCode/MainModule(LPC1769)/MainModule(LPC1769) Release.launch
+/MainModule/SourceCode/MainModule(LPC1769)/MainModule(LPC1769) Debug.launch
