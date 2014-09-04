@@ -37,13 +37,13 @@
 								<option id="com.crt.advproject.gcc.hdrlib.1145095145" name="Library headers" superClass="com.crt.advproject.gcc.hdrlib" value="com.crt.advproject.gcc.hdrlib.codered" valueType="enumerated"/>
 								<option id="com.crt.advproject.gcc.fpu.1232014597" name="Floating point" superClass="com.crt.advproject.gcc.fpu" value="com.crt.advproject.gcc.fpu.none" valueType="enumerated"/>
 								<option id="gnu.c.compiler.option.include.paths.1927494658" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\CMSIS\CMSIS\Include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_ip&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_chip\chip_common&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_chip\chip_17xx_40xx&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_board\board_common&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_board\boards_17xx_40xx\nxp_xpresso_1769&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\LPCUSBLib\Drivers\USB&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/CMSIS/CMSIS/Include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_ip&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_chip/chip_common&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_chip/chip_17xx_40xx&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_board/board_common&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_board/boards_17xx_40xx/nxp_xpresso_1769&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/LPCUSBLib/Drivers/USB&quot;"/>
 								</option>
 								<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.1938986931" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level" value="gnu.c.optimization.level.none" valueType="enumerated"/>
 								<inputType id="com.crt.advproject.compiler.input.69562903" superClass="com.crt.advproject.compiler.input"/>

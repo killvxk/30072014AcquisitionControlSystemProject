@@ -38,12 +38,12 @@
 								</option>
 								<option id="gnu.c.compiler.option.misc.other.96487472" name="Other flags" superClass="gnu.c.compiler.option.misc.other" value="-c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections" valueType="string"/>
 								<option id="gnu.c.compiler.option.include.paths.730822142" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_board\board_common&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_board\boards_17xx_40xx\nxp_xpresso_1769&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_chip\chip_common&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_ip&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\CMSIS\CMSIS\Include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\LPCOpen\lpcopen\software\lpc_core\lpc_chip\chip_17xx_40xx&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_board/board_common&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_board/boards_17xx_40xx/nxp_xpresso_1769&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_chip/chip_common&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_ip&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/CMSIS/CMSIS/Include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../software/lpc_core/lpc_chip/chip_17xx_40xx&quot;"/>
 								</option>
 								<inputType id="com.crt.advproject.compiler.input.865770587" superClass="com.crt.advproject.compiler.input"/>
 							</tool>
