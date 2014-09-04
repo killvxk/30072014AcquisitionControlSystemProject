@@ -48,3 +48,19 @@ Debug
 .settings
 /MainModule/SourceCode/MainModule(LPC1769)/MainModule(LPC1769) Release.launch
 /MainModule/SourceCode/MainModule(LPC1769)/MainModule(LPC1769) Debug.launch
+*.o
+*.mk
+*
+*.d
+*.o
+*.d
+*.mk
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Device/*.o
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Device/*.d
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Device/*.mk
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/*.o
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/*.mk
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/*.d
+/MainModule/SourceCode/nxp_xpresso_1769_board_lib/Debug/BOARD
+/MainModule/SourceCode/nxp_xpresso_1769_board_lib/Debug/CHIP
+/MainModule/SourceCode/nxp_xpresso_1769_board_lib/Debug/IP
