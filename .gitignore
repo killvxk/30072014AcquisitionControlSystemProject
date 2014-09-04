@@ -64,3 +64,7 @@ Debug
 /MainModule/SourceCode/nxp_xpresso_1769_board_lib/Debug/BOARD
 /MainModule/SourceCode/nxp_xpresso_1769_board_lib/Debug/CHIP
 /MainModule/SourceCode/nxp_xpresso_1769_board_lib/Debug/IP
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/HIDParser.o
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/subdir.mk
+/MainModule/SourceCode/nxp_xpresso_1769_usblib_device/Debug/Drivers/USB/Class/Common/HIDParser.d
+/MainModule/SourceCode/MainModule(LPC1769)/Debug
