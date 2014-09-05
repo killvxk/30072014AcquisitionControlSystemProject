@@ -156,7 +156,6 @@ int main(void)
 {
 	SetupHardware();
 
-	// beskonecna jamka
 	for (;; ) {
 #if defined(USB_DEVICE_ROM_DRIVER)
 		UsbdCdc_IO_Buffer_Sync_Task();
